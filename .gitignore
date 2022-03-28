@@ -1,6 +1,7 @@
 /node_modules
 /public/hot
 /public/storage
+/public/storage/creds.json
 /storage/creds.json
 /storage/*.key
 /vendor
